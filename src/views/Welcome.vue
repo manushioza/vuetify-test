@@ -6,7 +6,10 @@
 </template>
 
 <style lang="scss">
-  @import '../styles/Welcome.scss';
+
+#app{
+    background-color: #D1EAFD;
+}
 
 </style>
 

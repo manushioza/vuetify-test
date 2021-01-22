@@ -1,0 +1,37 @@
+.background-img {
+    width: 100%;
+    padding: 7.5% 5% 10% 10%;
+    background: linear-gradient(89.95deg, rgba(28, 52, 78, 0.8008) 48.32%, rgba(53, 85, 133, 0.3256) 107.32%), url('../assets/DSC_0824.jpg');
+    background-size: cover;
+}
+
+.text1 {
+    font-family: monospace Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 42px;
+    letter-spacing: 0.21em;
+    color: #98E6E1;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.24);
+}
+
+.text2 {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 150%;
+    color: #98E6E1;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.24);
+}
+
+.text3 {
+    width: 75%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #98E6E1;
+}
